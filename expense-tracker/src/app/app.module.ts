@@ -10,6 +10,7 @@ import { ExpensesummarycomponentComponent } from './expensesummarycomponent/expe
 import { LogocomponentComponent } from './logocomponent/logocomponent.component';
 import { NavigationbarcomponentComponent } from './navigationbarcomponent/navigationbarcomponent.component';
 import { OverviewcomponentComponent } from './overviewcomponent/overviewcomponent.component';
+import { ExpensecomponentComponent } from './expensecomponent/expensecomponent.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { OverviewcomponentComponent } from './overviewcomponent/overviewcomponen
     ExpensesummarycomponentComponent,
     LogocomponentComponent,
     NavigationbarcomponentComponent,
-    OverviewcomponentComponent
+    OverviewcomponentComponent,
+    ExpensecomponentComponent
   ],
   imports: [
     BrowserModule,
