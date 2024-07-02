@@ -8,7 +8,7 @@ describe('OverviewcomponentComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [OverviewcomponentComponent]
+      declarations: [OverviewcomponentComponent]
     })
     .compileComponents();
 

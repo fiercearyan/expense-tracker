@@ -8,7 +8,7 @@ describe('AddexpensecomponentComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [AddexpensecomponentComponent]
+      declarations: [AddexpensecomponentComponent]
     })
     .compileComponents();
 

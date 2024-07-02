@@ -8,7 +8,7 @@ describe('DisplayexpensecomponentComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [DisplayexpensecomponentComponent]
+      declarations: [DisplayexpensecomponentComponent]
     })
     .compileComponents();
 
