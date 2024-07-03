@@ -1,6 +1,8 @@
 .overview-summary-pres{
     width: 100%;
     display: flex;
+    padding: 20px 20px;
+
 }
 
 .calendar-summary-pres{
@@ -10,3 +12,4 @@
 .expense-summary-pres{
     width:60%;
 }
+

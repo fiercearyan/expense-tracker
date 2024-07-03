@@ -1,0 +1,11 @@
+.expense-summary-budget span, .expense-summary-expenditure span, .expense-summary-total span{
+    display: block;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.expense-summary{
+ border-left: 1px solid;
+    display: flex;
+    justify-content: space-evenly;
+}
