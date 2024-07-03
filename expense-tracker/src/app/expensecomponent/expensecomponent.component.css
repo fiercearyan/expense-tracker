@@ -1,0 +1,12 @@
+.expense-pres{
+    width: 100%;
+    display: flex;
+}
+
+.add-expense-pres{
+    width:40%;
+}
+
+.display-expense-pres{
+    width:60%;
+}

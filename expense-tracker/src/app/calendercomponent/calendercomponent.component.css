@@ -1,3 +1,14 @@
 .calender {
     display: flex;
+    justify-content: space-evenly;
+}
+
+.left-arrow, .right-arrow {
+    width: 15%;
+    text-align: center;
+}
+
+.month-year {
+    width: 70%;
+    text-align: center;
 }
