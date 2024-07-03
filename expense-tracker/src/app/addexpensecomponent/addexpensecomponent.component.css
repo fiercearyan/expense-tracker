@@ -1,0 +1,34 @@
+.add-expenses {
+    padding: 10px, 20px;
+}
+
+.income-or-expenditure, .amount-and-add, .category{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 20px;
+}
+
+.income, .expenditure, .amount, .add, .category {
+    text-align: center;
+}
+
+.income, .expenditure {
+    border: 1px solid;
+    padding: 1rem 1rem;
+}
+
+.category-input {
+    height: 100%;
+    width: 70%;
+    display: inline-grid;
+}
+
+.add-button {
+    height: 100%;
+    width: 30%;
+}
+
+.amount {
+    height: 100%;
+    width: 70%;
+}
