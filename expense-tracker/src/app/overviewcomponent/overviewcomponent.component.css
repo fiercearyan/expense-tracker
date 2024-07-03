@@ -1,13 +1,12 @@
 .overview-summary-pres{
     width: 100%;
+    display: flex;
 }
 
 .calendar-summary-pres{
-    width:45%;
-    float:left;
+    width:40%;
 }
 
 .expense-summary-pres{
-    width:55%;
-    float:right;
+    width:60%;
 }
